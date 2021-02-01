@@ -2,6 +2,7 @@ public class FibonacciSeries {
     public static void main(String[] args) {
 
         int count = 35, num1 = 0, num2 = 1;
+        System.out.println("welcom to Febonacci series");
         System.out.print("Fibonacci Series of "+count+" numbers:");
 
         int i=1;
